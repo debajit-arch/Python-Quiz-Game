@@ -1,5 +1,6 @@
 # Python-Quiz-Game
 A terminal-based Python quiz game that tests basic computer knowledge through 10 open-ended questions — no multiple choice, you type your own answers — and shows your score and performance percentage at the end.
+
 ##🧠 Python Quiz Game:-
 
 A simple terminal-based quiz game built in Python that tests your basic computer knowledge. Unlike typical MCQ-style quizzes, this one asks you to type your own answers — putting your knowledge to a real test, not just recognition!
@@ -57,7 +58,7 @@ Great job! You have a good understanding of computer basics!
 
 ##👤 Author:
 
-Debajit Mahata - GitHub
+Debajit Mahata - GitHub[https://github.com/debajit-arch]
    
 
 
