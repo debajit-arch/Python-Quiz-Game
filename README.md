@@ -30,8 +30,7 @@ This is my first personal Python project. The game asks the user 10 questions re
 ##🛠️ Built With:-
 
 1. Python 3
-
-2 .No external libraries required — built using core Python
+2. No external libraries required — built using core Python
 
 ##📥 Installation & Usage:-
 
