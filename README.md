@@ -30,7 +30,7 @@ This is my first personal Python project. The game asks the user 10 questions re
 
 ##📥 Installation & Usage:-
 1. Clone the repository:
-  git clone https://github.com/debajit-arch/<repo-name>.git   
+  git clone:  https://github.com/debajit-arch/Python-Quiz-Game.git   
 2. Navigate into project folder:
    cd <repo-name>
 3. Run the game:
